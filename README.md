@@ -38,7 +38,7 @@
 ### 🌍 Featured Projects
 
 - 🤖 [Proxima Telegram Bot](https://t.me/PstonerBot)
-- 💼 [Portfolio website](https://stoner1238.github.io/portfolio/)
+- 💼 [Portfolio website](https://ayat360.github.io/portfolio/)
 - 🧰 More automation tools launching on [PROXIMA A3](https://instagram.com/proximaa3graphics)
 
 ---
@@ -46,8 +46,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stoner1238&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stoner1238&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayat360&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayat360&theme=tokyonight" />
 </p>
 
 ---
