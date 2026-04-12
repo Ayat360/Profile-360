@@ -1,126 +1,109 @@
 <h1 align="center">Hi 👋, I'm Ayatulah Adekunle</h1>
-<h3 align="center">Web Designer • Bot Builder • Figma UI Designer • Frontend Developer</h3>
+<h3 align="center">Frontend Developer • Building Automation Tools & SaaS Products</h3>
 
 <p align="center">
   <img src="banner.png" alt="Proxima A3 Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;I+Design+Modern+Web+Experiences.;I+Build+Bots+and+Automation+Tools.;I+Create+Business+Solutions+That+Work.;PROXIMA+A3+%E2%80%94+Automate+Everything." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=I+Build+Modern+Web+Applications;I+Create+Automation+Tools+That+Save+Time;Turning+Ideas+Into+Real+Products;Future+SaaS+Engineer+in+Progress" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm **Ayatulah Adekunle**, the creative mind behind **PROXIMA A3 — Automate Everything**.
+I'm **Ayatulah Adekunle**, founder of **PROXIMA A3**.
 
-I focus on building **modern websites**, **smart bots**, **automation tools**, and **clean user interfaces** that solve real-world problems for businesses and individuals.
+I build **modern web applications**, **automation tools**, and **user-focused digital products** that solve real problems.
 
-### What I Do:
-- 🎨 Design modern and clean **Figma UI/UX interfaces**
-- 💻 Build responsive **frontend websites**
-- 🤖 Create **Telegram bots** and automation tools
-- 🧠 Turn ideas into **real digital products**
-- 📈 Build solutions that improve workflow, branding, and business presence
-
-### Currently Focused On:
-- ⚡ Advanced **Frontend Development**
-- 🔗 **API Integration & Automation**
-- 🛠️ Building smarter tools under **PROXIMA A3**
-- 🌍 Creating professional digital experiences for brands and businesses
+💡 I’m currently transitioning into **full-stack development**, focused on building scalable SaaS platforms.
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧠 What I Do
+
+- 💻 Build responsive **React web applications**
+- 🎨 Design clean and modern **user interfaces**
+- 🤖 Develop **automation tools & bots**
+- 🔐 Implement **authentication systems (Firebase)**
+- 🚀 Turn ideas into **real, deployable products**
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,github,flask,vscode,sqlite,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase,python,flask,sqlite,github,vscode" />
 </p>
 
 ---
 
-## 🏆 Certification
-
-<p align="left">
-  <a href="https://freecodecamp.org/certification/fcc65c65cff-7f7a-428c-ac6f-67a532933672/responsive-web-design" target="_blank">
-    <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-brightgreen?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design Certificate" />
-  </a>
-</p>
-
----
-
-## 🌍 Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 Proxima Telegram Bot
-A smart Telegram bot built to automate tasks and improve digital workflow.
+Automation bot designed to simplify tasks and improve workflow.
 
-🔗 [Launch Bot](https://t.me/PstonerBot)
+🔗 https://t.me/PstonerBot
 
 ---
 
 ### 💼 Portfolio Website
-My personal portfolio showcasing my web design, frontend, and creative work.
+A modern personal portfolio showcasing my projects and skills.
 
-🔗 [View Portfolio](https://ayat360.github.io/portfolio/)
+🔗 https://ayat360.github.io/portfolio/
 
 ---
 
-### 🧰 PROXIMA A3
-A growing digital brand focused on **automation**, **design**, and **business tools**.
+### ⚡ Firebase Auth System
+A login & registration system built with React and Firebase.
 
-🔗 [Visit PROXIMA A3](https://instagram.com/proximaa3graphics)
+🔗 (Add this when you deploy today's project 👀)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayat360&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayat360&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayat360&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayat360&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayat360&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+---
+
+## 🎯 Current Focus
+
+- ⚡ Learning **Node.js & Backend Development**
+- 🔗 Building **full-stack SaaS applications**
+- 💰 Preparing projects for **real-world monetization**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://facebook.com/ayatulah.aregbe" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://instagram.com/proximaa3graphics" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://twitter.com/proximaa3" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/proximaa3graphics" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/aregbe-adekunle-7265b3361" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@proxima_a3" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ✨ PROXIMA A3 — Automate Everything
+## ✨ PROXIMA A3
 
-> Building smart digital solutions through design, code, and automation.
-
----
-
-## 📌 Personal Motto
-
-> **Simple solutions. Clean design. Real impact.**
+> Building smart digital products through code, design, and automation.
 
 ---
 
-⭐️ **If my work inspires you, feel free to star this profile and connect with me.**
+## 📌 Motto
+
+> Simple systems. Clean design. Real impact.
