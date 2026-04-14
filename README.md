@@ -58,7 +58,7 @@ A modern personal portfolio showcasing my projects and skills.
 ### ⚡ Firebase Auth System
 A login & registration system built with React and Firebase.
 
-🔗 (Add this when you deploy today's project 👀)
+🔗 (</> Not updated.... 👀)
 
 ---
 
