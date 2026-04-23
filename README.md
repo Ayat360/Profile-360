@@ -58,7 +58,7 @@ A modern personal portfolio showcasing my projects and skills.
 ### ⚡ Firebase Auth System
 A login & registration system built with React and Firebase.
 
-🔗 (Coming soon 👀)
+🔗 (</> Not updated.... 👀)
 
 ---
 
@@ -93,6 +93,13 @@ A login & registration system built with React and Firebase.
   </a>
   <a href="https://www.linkedin.com/in/aregbe-adekunle-7265b3361" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ PROXIMA A3
+
   </a>
 </p>
 
