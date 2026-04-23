@@ -58,7 +58,7 @@ A modern personal portfolio showcasing my projects and skills.
 ### ⚡ Firebase Auth System
 A login & registration system built with React and Firebase.
 
-🔗 (</> Not updated.... 👀)
+🔗 (Coming soon 👀)
 
 ---
 
@@ -82,41 +82,86 @@ A login & registration system built with React and Firebase.
 
 ---
 
-## ✨ PROXIMA A3
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/proximaa3graphics" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/proximaa3" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aregbe-adekunle-7265b3361" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ PROXIMA A3 IDENTITY ENGINE
 
 <p align="center">
 
-<svg width="260" height="260" viewBox="0 0 260 260">
+<svg width="320" height="320" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Soft glow background ring -->
+  <circle cx="160" cy="160" r="120" stroke="#00F7FF" stroke-width="1" fill="none" opacity="0.15"/>
+
+  <!-- Rotating dashed orbit -->
+  <circle cx="160" cy="160" r="100"
+    stroke="#00F7FF"
+    stroke-width="2"
+    fill="none"
+    stroke-dasharray="18 10"
+  >
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 160 160"
+      to="360 160 160"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <!-- Circular text path -->
   <defs>
     <path id="circlePath"
-      d="M130,130
-         m-100,0
-         a100,100 0 1,1 200,0
-         a100,100 0 1,1 -200,0" />
+      d="M160,60
+         a100,100 0 1,1 -0.1,0" />
   </defs>
 
-  <g>
-    <!-- rotating text ring -->
-    <text fill="#00F7FF" font-size="14" font-family="Fira Code" letter-spacing="3">
-      <textPath href="#circlePath">
-        AYAT360 • AYAT360 • AYAT360 • AYAT360 •
-      </textPath>
-
-      <!-- smooth rotation -->
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="0 130 130"
-        to="360 130 130"
-        dur="6s"
+  <!-- Moving AYAT360 text -->
+  <text font-size="18" fill="#00F7FF" font-family="monospace" font-weight="bold">
+    <textPath href="#circlePath">
+      AYAT360 • AYAT360 • AYAT360 • AYAT360 •
+      <animate attributeName="startOffset"
+        from="0%"
+        to="100%"
+        dur="10s"
         repeatCount="indefinite" />
-    </text>
+    </textPath>
+  </text>
 
-    <!-- center glow dot -->
-    <circle cx="130" cy="130" r="6" fill="#00F7FF">
-      <animate attributeName="r" values="4;8;4" dur="1.5s" repeatCount="indefinite"/>
-    </circle>
-  </g>
 </svg>
 
 </p>
+
+---
+
+## 🧠 Closing Energy
+
+Built with discipline. Designed with intent.  
+This is not just a profile — it’s a **living system of identity + code + ambition**.
+
+> “You don’t just write code. You engineer perception.”
+
+---
+
+If you want next upgrade, I can push this into:
+- 🔥 React animated portfolio version
+- ⚡ glowing neon cyber version
+- 💼 SaaS landing page version of this identity system
+- 🧬 AI-branded personal logo system
+
+Just say: **“level it up”** 😈
